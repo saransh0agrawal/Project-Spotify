@@ -1,0 +1,15 @@
+{
+	"name": "adfdeploymentcicd",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a042f11b-2972-4473-8589-698e066dee82",
+		"tenantId": "86098776-6cd5-447d-89a6-4d7db2959c11"
+	}
+}
